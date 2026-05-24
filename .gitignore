@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Runtime logs (sample data — regenerated on each run)
+phase5_deployment/hospital_api/logs/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Byte-compiled
+*.pyc
