@@ -283,14 +283,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🏆 Certificate
 
-Completed as part of **IITM Weekend Certification Course** - AI/ML Specialization (11 months)
+Completed as part of **Advanced Certificate Programme in Applied Artificial Intelligence and Machine Learning** - (IITM Feb 2026)
 
 ---
 
 ## ✉️ Contact & Social
 
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/optimuskrish)
+- **GitHub**: [Your GitHub Profile](https://github.com/OptimusKrish/)
 
 ---
 
